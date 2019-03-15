@@ -1,0 +1,9 @@
+{
+  "name": "invisible-tech",
+  "version": "1.0.0",
+  "description": "Interview task for Invisible tech",
+  "main": "index.js",
+  "repository": "https://github.com/jovandamjanovic/invisible-tech.git",
+  "author": "Jovan <jovandamjanovic@gmail.com>",
+  "license": "MIT"
+}
